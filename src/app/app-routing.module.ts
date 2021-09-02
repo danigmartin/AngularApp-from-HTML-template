@@ -6,7 +6,7 @@ import { ItemComponent } from './pages/item/item.component';
 
 const routes: Routes = [
   {
-    path: '',
+    path: 'home',
     component: PortfolioComponent
   },
   {
